@@ -1,21 +1,25 @@
 package untouchables;
 
-import java.io.IOException;
-
 import com.leapmotion.leap.Controller;
+import com.leapmotion.leap.Listener;
 
-public class LeapConnect{
+public class LeapConnect extends Listener{
 	
-	 public static void main(String[] args) {
-	        Controller controller = new Controller();
+	Controller controller = new Controller();
+	// !!!
 
-	        // Keep this process running until Enter is pressed
-	        System.out.println("Press Enter to quit...");
-	        try {
-	            System.in.read();
-	        } catch (IOException e) {
-	            e.printStackTrace();
-	        }
-	    }
-	 
+
+	
+	public void Controller_addListener(){
+		
+	}
+	
+    public void onConnect(Controller controller) {
+        System.out.println("Connected");
+        controller.enableGesture(Gesture.Type.TYPE_SWIPE);
+	}
+
+    public void onFrame(Controller controller) {
+        System.out.println("Frame available");
+    }
 }
