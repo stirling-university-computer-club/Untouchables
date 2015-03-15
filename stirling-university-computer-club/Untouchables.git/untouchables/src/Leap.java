@@ -14,8 +14,6 @@ public class Leap extends Listener{
 
     public static void main(String[] args) {
         // Create a sample listener and controller
-        SampleListener listener = new SampleListener();
-        
     	Controller controller = new Controller();
         Frame f = controller.frame();
         float instantaneousFrameRate = f.currentFramesPerSecond();
