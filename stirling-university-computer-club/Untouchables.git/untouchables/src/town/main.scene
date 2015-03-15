@@ -1,0 +1,198 @@
+<scene previous_export_time="0" exported_by="Martynas" export_time="1426415553.247168" formatVersion="1.0.1" >
+  <nodes >
+    <node name="PolySphere.001" >
+      <position y="3.391913" x="17.921114" z="-29.212370" />
+      <rotation qy="1.000000" qx="0.000000" qz="-0.000000" qw="-0.000000" />
+      <scale y="0.752517" x="0.752517" z="0.752517" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBPolySphere.001", name="cycles_visibility", address=0x000000000CA73608&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Cube.002" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Cube.002.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MECube.002", name="cycles", address=0x000000000CA74CC8&gt;' />
+      </entity>
+    </node>
+    <node name="PolySphere" >
+      <position y="2.454377" x="29.877331" z="-9.714058" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.227775" x="1.227775" z="1.227775" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBPolySphere", name="cycles_visibility", address=0x000000000CA73468&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Cube.001" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Cube.001.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MECube.001", name="cycles", address=0x000000000CA74B28&gt;' />
+      </entity>
+    </node>
+    <node name="Sphere.004" >
+      <position y="0.677095" x="17.484062" z="-25.217567" />
+      <rotation qy="0.026103" qx="0.026103" qz="0.706625" qw="0.706625" />
+      <scale y="0.235586" x="0.235586" z="0.235586" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBSphere.004", name="cycles_visibility", address=0x000000000CA73E28&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Sphere.004" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Sphere.004.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MESphere.004", name="cycles", address=0x000000000CA75828&gt;' />
+      </entity>
+    </node>
+    <node name="Plane.001" >
+      <position y="-0.059922" x="14.569423" z="-21.115168" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="20.184069" x="20.184069" z="20.184069" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBPlane.001", name="cycles_visibility", address=0x000000000CA732C8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Plane.001" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Plane.001.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MEPlane.001", name="cycles", address=0x000000000CA75008&gt;' />
+      </entity>
+    </node>
+    <node name="Sphere.003" >
+      <position y="0.978627" x="9.993545" z="-0.912812" />
+      <rotation qy="0.026103" qx="0.026103" qz="0.706625" qw="0.706625" />
+      <scale y="0.257701" x="0.257701" z="0.257701" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBSphere.003", name="cycles_visibility", address=0x000000000CA73C88&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Sphere.003" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Sphere.003.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MESphere.003", name="cycles", address=0x000000000CA75688&gt;' />
+      </entity>
+    </node>
+    <node name="Sphere.002" >
+      <position y="0.590894" x="-6.382890" z="3.440957" />
+      <rotation qy="0.521114" qx="0.521114" qz="0.477954" qw="0.477954" />
+      <scale y="0.766570" x="0.766570" z="0.766570" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBSphere.002", name="cycles_visibility", address=0x000000000CA73AE8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Sphere.002" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Sphere.002.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MESphere.002", name="cycles", address=0x000000000CA754E8&gt;' />
+      </entity>
+    </node>
+    <node name="Sphere.001" >
+      <position y="0.805869" x="0.027473" z="-4.418943" />
+      <rotation qy="0.523464" qx="0.523464" qz="0.475380" qw="0.475380" />
+      <scale y="0.291322" x="0.291322" z="0.291322" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBSphere.001", name="cycles_visibility", address=0x000000000CA73948&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Sphere.001" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Sphere.001.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MESphere.001", name="cycles", address=0x000000000CA75348&gt;' />
+      </entity>
+    </node>
+    <node name="Sphere" >
+      <position y="0.590894" x="-1.139499" z="3.114892" />
+      <rotation qy="-0.160533" qx="-0.160533" qz="0.688643" qw="0.688643" />
+      <scale y="0.409739" x="0.409739" z="0.409739" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBSphere", name="cycles_visibility", address=0x000000000CA737A8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Sphere" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Sphere.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MESphere", name="cycles", address=0x000000000CA751A8&gt;' />
+      </entity>
+    </node>
+    <node name="Circle" >
+      <position y="0.238463" x="-2.336432" z="2.160259" />
+      <rotation qy="0.993555" qx="0.000000" qz="-0.000000" qw="0.113355" />
+      <scale y="0.413912" x="0.413912" z="0.413912" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBCircle", name="cycles_visibility", address=0x000000000490BAA8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Circle" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Circle.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MECircle", name="cycles", address=0x000000000CA74988&gt;' />
+      </entity>
+    </node>
+    <node name="Hemi" >
+      <position y="5.645360" x="3.268500" z="13.798975" />
+      <rotation qy="0.028792" qx="0.560807" qz="-0.125978" qw="0.817800" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBHemi", name="cycles_visibility", address=0x000000000CA72DE8&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+    </node>
+    <node name="Plane" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="20.184069" x="20.184069" z="20.184069" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBPlane", name="cycles_visibility", address=0x000000000CA73128&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" mass_radius="1.0" mass="1.0" actor="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" anisotropic_friction="False" physics_type="STATIC" inertia_tensor="0.4000000059604645" lock_trans_z="False" lock_trans_y="False" lock_trans_x="False" velocity_min="0.0" name="Plane" friction_z="1.0" friction_y="1.0" velocity_max="0.0" ghost="False" meshFile="Plane.mesh" friction_x="1.0" >
+        <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="MEPlane", name="cycles", address=0x000000000CA74E68&gt;' />
+      </entity>
+    </node>
+    <node name="Lamp" >
+      <position y="5.903862" x="4.076245" z="-1.005454" />
+      <rotation qy="0.755880" qx="0.169076" qz="-0.272171" qw="0.570947" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBLamp", name="cycles_visibility", address=0x000000000CA72F88&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" powerScale="1.0" shadow="true" name="Lamp" >
+        <position y="5.903862" x="4.076245" z="-1.005454" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.03333335240683057" quadratic="0.0" />
+        <colourDiffuse b="1.0" r="1.0" g="1.0" />
+        <colourSpecular b="1.0" r="1.0" g="1.0" />
+        <colourShadow b="1.0" r="1.0" g="1.0" />
+      </light>
+    </node>
+    <node name="Camera" >
+      <position y="2.903803" x="-7.668409" z="7.347792" />
+      <rotation qy="-0.305873" qx="0.574735" qz="0.235526" qw="0.721560" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <camera projectionType="perspective" name="Camera" fov="0.5033799435163735" >
+        <clipping nearPlaneDist="0.10000000149011612" near="0.10000000149011612" farPlaneDist="100.0" far="100.0" />
+      </camera>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.006.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.004.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.005.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\Martynas\Desktop\robot\landscape\Material.001.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.05000000074505806" r="0.05000000074505806" g="0.05000000074505806" />
+    <colourAmbient b="0.0" r="0.0" g="0.0" />
+    <colourDiffuse b="0.05000000074505806" r="0.05000000074505806" g="0.05000000074505806" />
+  </environment>
+</scene>

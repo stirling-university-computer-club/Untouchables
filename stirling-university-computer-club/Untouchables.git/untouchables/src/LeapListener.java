@@ -111,24 +111,8 @@ public void onFrame (Controller controller){
 		}
 	}
 }
-	
+}
 
-public static class LeapController {
-	
-	public static void main(String[] args) {
-	
-		LeapListener listener = new LeapListener();
-		Controller controller = new Controller();
-	controller.addListener(listener);
-	System.out.println("Press enter to quit");
-	try
-	{
-		System.in.read();
-	} catch (IOException e){
-	}
-	}
-}
-}
 		
 		
 	
